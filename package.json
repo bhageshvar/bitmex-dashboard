@@ -1,7 +1,7 @@
 {
-  "name": "react-stockcharts-example2",
-  "description": "Examples for react-stockcharts",
-  "version": "0.0.24",
+  "name": "bitmex-dashboard",
+  "description": "Using react-stockcharts for bitmex live plotting",
+  "version": "0.0.1",
   "dependencies": {
     "bit_mex_api": "^1.2.1",
     "crypto": "^1.0.1",
